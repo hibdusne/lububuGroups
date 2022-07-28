@@ -78,7 +78,7 @@ def make_embed(group_info, date):
         ],
         footer=dict(
             color = 0xff4d4d,
-            text="By Chrisnel Private"
+            text="By !c3#7213"
         ),
         timestamp=date.isoformat()
     )
